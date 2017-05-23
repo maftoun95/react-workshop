@@ -9,19 +9,17 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-
         <Navbar />
-
-      <div className='page'>
-        <div className='container-fluid top-padding'>
-          <div className='col-md-2'>
-            <ProfileCard />
-          </div>
-          <div className='col-md-8'>
-            <Content />
+        <div className='page'>
+          <div className='container-fluid top-padding'>
+            <div className='col-md-2'>
+              <ProfileCard />
+            </div>
+            <div className='col-md-8'>
+              <Content />
+            </div>
           </div>
         </div>
-      </div>
 
       </div>
     );

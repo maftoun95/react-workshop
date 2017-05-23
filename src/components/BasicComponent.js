@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import Bloop from './Bloop'
 
 class BasicComponent extends Component {
   render(){
