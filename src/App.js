@@ -16,7 +16,7 @@ class App extends Component {
         </div>
 
         <div className="App-intro">
-          Hello, <Name name="MC HAMMERRRRRR"/>
+          Hello, <Name class='inline' name="MC HAMMERRRRRR"/>
         </div>
 
       </div>
